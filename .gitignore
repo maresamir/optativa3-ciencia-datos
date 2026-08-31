@@ -1,0 +1,16 @@
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Python / Jupyter cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# VS Code config local
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
