@@ -1,0 +1,16 @@
+producto,categoria,precio,cantidad
+Cafe Espresso,Bebidas Calientes,35.0,3
+Capuchino Vainilla,Bebidas Calientes,48.0,2
+Te Verde Matcha,Bebidas Calientes,52.0,1
+Croissant de Mantequilla,Panaderia,28.0,4
+Muffin de Arandanos,Panaderia,32.0,2
+Bagel con Queso Crema,Panaderia,45.0,1
+Cold Brew Tradicional,Bebidas Frias,42.0,3
+Frappe de Moka,Bebidas Frias,58.0,2
+Iced Latte Almendra,Bebidas Frias,55.0,2
+Sandwich Pavo y Panela,Alimentos Preparados,75.0,2
+Panini Caprese,Alimentos Preparados,82.0,1
+Wrap de Pollo Cesar,Alimentos Preparados,78.0,3
+Galleta Chispas Chocolate,Snacks y Dulces,22.0,5
+Barra Energetica Avena,Snacks y Dulces,26.0,4
+Brownie con Nuez,Snacks y Dulces,30.0,3
